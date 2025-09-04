@@ -9,14 +9,14 @@ Entonces las bases de datos están, no hay que crearlas, pero si hay que complem
 
 La idea es generar una gran tabla que este dividida en secciones o bloques; Nintendo, Sony y Microsoft, y que las columnas sean el título del juego, fecha, desarrollador, ventas e inversión y las filas la información en sí.
 
-Otras fuentes que aportan a la construcción de la propia base de datos son papers que se han publicado acerca de los videojuegos de tipo triple A que son los de; Alhamud, Politowski y un artículo periodístico (Vandal). Estas fuentes entregan datos, pero además información que complementa la narrativa a trabajar.
+Otras fuentes que aportan a la construcción de la propia base de datos son papers que se han publicado acerca de los videojuegos de tipo triple A que son los de; Alhamud, Politowski y un artículo periodístico (Vandal) que fue mencionado en la presentación de la propuesta, específicamente en el punto de antecedentes del tema. Estas fuentes entregan datos, pero además información que complementa la narrativa a trabajar.
 
 
 El texto de Alhamud va más allá de la rentabilidad de los juegos triple A, sino que lo relaciona con un factor que va de la mano, y es que se prioriza la creatividad de los propios diseñadores en la industria sin llevar a cabo los deseos de la audiencia, y esto se puede relacionar con el poco impacto de los videojuegos a causa de la narrativa generando pocas ventas. El artículo también menciona la monetización de estos productos, pero ligado a la decepción de los gamers. (https://www.diva-portal.org/smash/get/diva2%3A1769625/FULLTEXT01.pdf) 
  
 Por otra parte, el texto de Politowski establece que los grandes desarrolladores trabajan con un sistema de código cerrado lo cual implica en un desconocimiento sobre los problemas que se tiene al realizar un videojuego. Esto no solo contempla problemas gráficos como bugs y ese tipo de problemas recurrentes, sino que también problemas administrativos y económicos como lo son las ventas, marketing, negocios y distribución. Por lo que toda esta información puede aportar y ser relevante para el webstory (https://arxiv.org/abs/2009.02440). 
  
-Así también, el artículo de Vadal busca probar que el modelo de los juegos triple A es derechamente insostenible (https://vandal.elespanol.com/noticia/1350763327/por-que-es-insostenible-el-modelo-triple-a-tal-y-como-lo-conocemos/). 
+
 
 ## Las bases de datos encontradas Wikipedia son las siguientes:
 •	Microsoft: 
