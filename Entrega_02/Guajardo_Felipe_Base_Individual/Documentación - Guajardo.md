@@ -1,10 +1,10 @@
 # Documentación 
 
-Como nuestro objetivo es trabajar y analizar juegos de categoría Triple A, nos interesan las principales plataformas en el mercado, dejando así juegos de tipo indie. Para comenzar hemos decidido trabajar con las plataformas y juegos de Sony (Play Station) y Xbox (Microsoft/Xbox Games Studio), pero solo los juegos desarrollados por esas compañías ya que de lo contrario sería demasiada información y datos, datos que incluso no van al caso.
+Como nuestro objetivo es trabajar y analizar juegos de categoría Triple A, nos interesan las principales plataformas en el mercado, dejando de lado juegos de tipo indie. Para comenzar hemos decidido trabajar con las plataformas y juegos de Play Station (Sony) y Xbox (Microsoft/Xbox Games Studio), pero solo los juegos desarrollados por esas compañías ya que de lo contrario sería demasiada información y datos, datos que incluso no van al caso.
 
-En mi caso, que trabaje con los títulos desarrollados por Xbox Game Studios, la principal fuente de datos de esos títulos es Wikipedia, por ende, esa fue la limpieza de datos, el filtro de selección de juegos solo desarrollados por el estudio de Xbox. Incluso, inicialmente trate de recopilar todos los títulos para la primera Xbox, y eran muchos títulos, y por eso se hace esa distinción, ya que además nuestro objeto son los juegos Triple A.
+En mi caso, que trabaje con los títulos desarrollados por Xbox Game Studios, la principal fuente de datos de esos títulos es Wikipedia, por ende, esa fue la limpieza de datos, el filtro de selección de juegos solo desarrollados por el estudio de Xbox. Incluso, inicialmente trate de recopilar todos los títulos para la primera Xbox (la del 2001), y eran muchos títulos, y por eso se hace esa distinción, ya que además nuestro objeto son los juegos Triple A.
 
-La siguiente imagen es una captura de una parte de la base de datos (en PDF, porque borré el documento original) en la que estaba trabajando sobre juegos solo de la primera Xbox, pero al ser tantos datos se tomó la decisión de solo trabajar con Xbox Games Studio.
+La siguiente imagen es una captura de una parte de la base de datos (en PDF, porque borré el documento original) en la que solo estaba trabajando en juegos de la Xbox 2001, pero al ser tantos datos se tomó la decisión de solo trabajar con Xbox Games Studio.
 
 ![alt text](<Captura de Pantalla 2025-09-26 a la(s) 20.07.19.png>) 
 
@@ -16,7 +16,7 @@ La pagina principal de Wikipedia que tiene los estudios de Xbox Games Studio es:
 https://en.m.wikipedia.org/wiki/Xbox_Game_Studios
 Pero también se utilizo la plataforma de MobyGames (https://www.mobygames.com), Steam, App Store, y foros de videojuegos que tienen información sobre el tamaño de los juegos (en caso de que no estuvieran ni en Steam o la App Store).
 
-Posteriormente también se decidió incluir la categoría de puntaje medio de los juegos, es decir, cuál es la valoración de estos en una escala del 1 al 100 y la fuente de esa información es la página web Metacritic, que sería el equivalente a GameRankings que ya no existe. 
+Otra decisión respecto a la limpieza de datos, es que con la base de datos ya armada, habían juegos de la Compañía Rare que fue comprada por Xbox Game Studios,  y antes producia muchos títulos para consolas de Nintendo, y como un factor que delimita nuestro proyecto son los años (juegos entre 1995 hasta la actualidad), todos los juegos que se publicaron antes de 1995 y que estaban en nuestra base de datos (que eran varios) fueron descartados. Posteriormente también se decidió incluir la categoría de "Puntaje" de los juegos, es decir, cuál es la valoración de estos en una escala del 1 al 100 y la fuente de esa información es la página web Metacritic, que sería el equivalente a GameRankings que ya no existe. 
 
 Preguntas que se pueden responder con la base de datos son:
 ¿Qué estudio es el que desarrolló más juegos?
@@ -25,5 +25,6 @@ Preguntas que se pueden responder con la base de datos son:
 ¿Hay alguna evolución en cuanto al peso de los juegos desarrollados?
 ¿Hay alguna tendencia en cuanto al formato de juegos? ¿se están desarrollando más juegos originales o remasterizados?
 ¿Qué compañía trabaja más en juegos de saga?
-¿Las valoraciones de los videojuegos ha mejorado, empeorado o se ha mantenido con el pasar del tiempo? (o incluso que compañía tiene una mejor valoración).
+¿Las valoraciones de los videojuegos ha mejorado, empeorado o se ha mantenido con el pasar del tiempo? (o incluso que compañía concentra una mejor valoración).
+¿Las valoraciones presentan una tendencia positiva o negativa en los juegos de tipo saga/serie?
 
