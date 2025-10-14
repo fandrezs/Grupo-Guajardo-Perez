@@ -1,0 +1,11 @@
+# Documentación Gonzalo Pérez
+
+Para la visualización de esta entrega, decidí mostrar como la cantidad de juegos de un estudio (en este caso Naughty Dog) va bajando a lo largo del tiempo, pero cambia la consola (por ende la tecnología), sube el número de trabajadores y aumenta el tamaño del juego.
+
+Quise usar un gráfico de puntos para mostrar esta situación, de manera que se note como aumenta el espacio blanco entre juego y juego al pasar los años, contrastando como en el pasado la cantidad de títulos era mucho mayor que ahora. Esto no implica que necesariamente han querido enfatizar calidad por sobre cantidad, el que hubiesen más juegos antes no implica que estos fuesen peores por menor tiempo de desarrollo.
+
+El problema es que ahora las prioridades del estudio implican gráficos espectaculares y físicas absuradmente cercanas a la realidad, pero se pueden hacer juegos excelentes sin necesidad de recursos tan grandes y presupuestos excesivos. Muchos estudios independientes lo han demostrado, pero es cierto que la gente también se fija mucho en lo anteriormente mencionado, aunque no importe tanto para la jugabilidad o la historia.
+
+La base de datos utilizada es la que arme respecto a las compañias más importantes de Playstation, donde estan listados todos los juegos creados por dichas empresas. Lo que responde esta visualización es que efectivamente los juegos (según quienes los producen y a que apuntan) son cada vez más lentos de hacerse, implican cada vez más costos por la gente contratada, la tecnología que implica crearlos y el tamaño de los archivos que permiten ejecutar el título.
+
+Otros estudios dentro de la base de datos han logrado equilibrar títulos grandes con otros más pequeños (algo que Nintendo hace con casi todos sus desarrolladores), pero con Playstation no ha sido prioridad este acercamiento, casi todos sus grandes estudios se han ido demorando cada vez más en sacar juegos, razón por la cual PS5 apenas tiene muchos exclusivos (y cada vez estos terminan saliendo en PC para adquirir ganancias extras).
