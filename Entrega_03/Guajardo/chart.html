@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-8f91a832a398b959bb46c64371ed5344"}, "mark": {"type": "circle", "size": 60}, "encoding": {"tooltip": [{"field": "Videojuego", "type": "nominal"}, {"field": "Tamano (MB)", "type": "nominal"}, {"field": "Num de trabajadores", "type": "nominal"}], "x": {"field": "Tamano (MB)", "type": "nominal"}, "y": {"field": "Num de trabajadores", "type": "nominal"}}, "title": "The Coalition: Tama\u00f1o del Juego vs N\u00famero de Trabajadores", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-8f91a832a398b959bb46c64371ed5344": [{"Videojuego": "Gears of War Ultimate Edition", "Tamano (MB)": "44000", "Num de trabajadores": "1.000"}, {"Videojuego": "Gears of War 4", "Tamano (MB)": "117000", "Num de trabajadores": "1.292"}, {"Videojuego": "Gears Pop", "Tamano (MB)": "Sin informacion", "Num de trabajadores": "184"}, {"Videojuego": "Gears 5", "Tamano (MB)": "80000", "Num de trabajadores": "1.689"}, {"Videojuego": "Gears Tactics", "Tamano (MB)": "45000", "Num de trabajadores": "960"}, {"Videojuego": "Halo Infinite", "Tamano (MB)": "50000", "Num de trabajadores": "2.686"}, {"Videojuego": "The Matrix Awakens", "Tamano (MB)": "29000", "Num de trabajadores": "119"}, {"Videojuego": "Gears of War Reloaded", "Tamano (MB)": "70000", "Num de trabajadores": "1.456"}, {"Videojuego": "Gears of War E-Day", "Tamano (MB)": "60000", "Num de trabajadores": "Sin informacion"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
