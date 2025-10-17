@@ -11,6 +11,7 @@ En primer lugar, se subió/importó a la plataforma la base de datos a Google Co
 Luego, como no quiero usar todos los datos de la BD, repeti lo de importar en altair, repeti las mismas lineas inciales, pero en lugar de copiar la ruta de acceso (porque eso ya esta hecho), toco filtrar la base de datos (que es source). Entonces cree nuevos valores que es el source_filtrado, donde inicialmente puse que la compañia con la que quiero trabajar es The Coalition, pero eso no es suficiente, porque su lo dejaba así se iban a imprimir columnas que no vienen al caso, por ende, agrego otro filtro que es el del videojuego, el tamaño y el numero de trabajadores. Luego de eso puse print para asegurarme de que todo estuviera bien.
 
 En cuanto a la forma de graficar, aqui fue mucho más dificil porque como queria mostrar la relación entre el tamaño del juego y la cantidad de trabajadores, sentia que era más apropiado usar este grafico: 
+
 ![alt text](<Captura de Pantalla 2025-10-16 a la(s) 17.07.58.png>)
 
 En lugar de cuatro gráficos serían dos, por mis variables (tamano y trabajadores), pero no logre que aparecieran los titulos de los juegos, solo se completaba un grafico y era una especie de pila, como un bloque de color, por ende, no graficaba de buena forma.
