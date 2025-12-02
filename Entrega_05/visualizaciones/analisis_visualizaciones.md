@@ -36,8 +36,8 @@ Eje X:
 
 Eje Y:
 
-- Cantidad de trabajadores: Gente contratada para los varios proyectos desarrollados ese año.
-- Cantidad de videojuegos lanzados: Juegos publicados ese año.
+- Cantidad de trabajadores: Gente contratada para los varios proyectos desarrollados ese año (lado izquierdo).
+- Cantidad de videojuegos lanzados: Juegos publicados ese año (lado derecho).
 
 Tooltip:
 
