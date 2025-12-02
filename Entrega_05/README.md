@@ -1,6 +1,7 @@
 # La nociva obsesión por la perfección visual en los Videojuegos Triple A
 
 ### Link de la página web: https://fandrezs.github.io/Sitio-Web-Videojuegos-Triple-A/
+### Lo anterior se debe a que la página se encuentra en otro repositorio, cuyo link es: https://github.com/fandrezs/Sitio-Web-Videojuegos-Triple-A
 
 Nuestro reportaje trata sobre como el hiperrealismo, en las grandes producciones de videojuegos, esta provocando que los periodos de lanzamientos se extiendan excesivamente en muchos casos, lo cual genera gigantes expectativas de ventas que, si no son cumplidas, generan despidos e incluso cierres de estudios. Esto se suma también a la inclusión de carisimas inteligencias artificiales (que en varios casos las implementan para reemplazar a los trabajadores), la sobreexplotación laboral y la implementación de mecánicas jugables cada vez más repetidas y menos variadas.
 
