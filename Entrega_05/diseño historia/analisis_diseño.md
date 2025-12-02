@@ -20,7 +20,7 @@ El nivel final (Nivel 4) refiere a que no todo está perdido, más bien, hay alt
 
 Entonces la estructura narrativa es bastante lineal, pero no por eso monótona, ya que se logra incorporar videos, imágenes, entre otros elementos visuales, además de considerar que la estructura narrativa funciona como una cadena e invita al lector a saber de qué trata el siguiente nivel hasta el final y así saber qué está pasando y qué ocurrirá con esta industria.
 
-En cuanto al diseño de interacción, al inicio de esta respuesta se usó la palabra "actualmente", porque aún se está trabajado en generar un logo mucho más dinámico, que cambie al scrollear, y en cuanto al menú, aún se está desarrollando.
+En cuanto al diseño de interacción, al inicio de esta respuesta se usó la palabra "actualmente", porque aún se está trabajado en generar un logo mucho más dinámico, que cambie al scrollear, y en cuanto al menú, aún se está desarrollando. Pero en cuanto al logotipo dinámico, si bien no está listo, se tiene el video de la animación que está adjunto en la carpeta de recursos.
 
 # Comentarios sobre la crónica y textos en general como titular, bajada, secciones o subtítulos, entre otros: ¿Por qué usaron tal o cual estilo narrativo? ¿De qué manera la redacción refuerza la historia de sus visualizaciones?
 
