@@ -47,3 +47,19 @@ Tooltip:
 
 ### Visualización 3: Indies nominados a los Game Awards
 
+![alt text](indies_gameawards.jpg)
+
+Este gráfico muestra la cantidad de juegos indie nominados durante la historia de los Game Awards (entre 2014 y 2025) a la categoría de Juego del año, que es el mayor galardón de la ceremonia. La mayoría de años o no se nominó a ninguno o se nominó a solo 1, mostrando el poco reconocimiento que se les tuvo por mucho tiempo, y como recien este año se nominó a 3, siendo la mitad de los nominados. Esto implica que, dentro de la industria y del jurado de periodistas que conforman las nominaciones, hay mayor reconocimiento a juegos alternativos o de pequeños estudios.
+
+Eje X:
+
+- Año de la ceremonia.
+
+Eje Y:
+
+- Cantidad de nominados: Desde 2018 en adelante siempre se nomina a 6 juegos en la categoría de mejor juego del año.
+
+Tooltip:
+
+- Año
+- Cantidad de nominados
