@@ -1,6 +1,6 @@
 # Análisis del diseño de la información y diseño de la interacción: ¿cuál es la estructura narrativa que definieron? ¿Cómo es el recorrido que hace el usuario en la página?
 
-Actualmente, la forma en que está diseñada y compuesta la página web es en base al logotipo acompañado de una sección de apartados que indican como está constituida nuestra web story, es decir, una especie de índice. Como nuestro tema son los videojuegos, denominas el índice como "Niveles", por ende, se tiene:
+Actualmente, la forma en que está diseñada y compuesta la página web es en base al logotipo que es una animación (integrando elementos visuales que se repiten en el reportaje web) acompañada del título de nuestro proyecto. Al bajar, luego de la animación, aparece un menú que menciona los diferentes subtitulos que organizan nuestro trabajo, y cada apartado lleva el nombre de "Nivel", para simular los niveles de un videojuego. Además al clickear en cualquiera de esos niveles, te dirige al  nivel correspondiente. Entonces se tienen los siguientes niveles:
  - Nivel 1: Introducción
  - Nivel 2: Hiperrealismo
  - Nivel 3: Efectos en el mercado
@@ -19,8 +19,6 @@ El Nivel 3 continúa con lo expuesto previamente, profundizando qué está ocurr
 El nivel final (Nivel 4) refiere a que no todo está perdido, más bien, hay alternativas que son los videojuegos de tipo indie, que no necesariamente tienen una mala calidad visual, ya que varios han logrado destacar por su calidad y también por la trama, y considerando que no son títulos gigantes, son una buena alternativa para la audiencia y consumidores. Así también va acompañado de otro timeline que muestra diversos títulos indies que logran experimentar con diferentes formas artísticas en cuanto a su resolución gráfica, y no por eso son malos videojuegos.
 
 Entonces la estructura narrativa es bastante lineal, pero no por eso monótona, ya que se logra incorporar videos, imágenes, entre otros elementos visuales, además de considerar que la estructura narrativa funciona como una cadena e invita al lector a saber de qué trata el siguiente nivel hasta el final y así saber qué está pasando y qué ocurrirá con esta industria.
-
-En cuanto al diseño de interacción, al inicio de esta respuesta se usó la palabra "actualmente", porque aún se está trabajado en generar un logo mucho más dinámico, que cambie al scrollear, y en cuanto al menú, aún se está desarrollando. Pero en cuanto al logotipo dinámico, si bien no está listo, se tiene el video de la animación que está adjunto en la carpeta de recursos.
 
 # Comentarios sobre la crónica y textos en general como titular, bajada, secciones o subtítulos, entre otros: ¿Por qué usaron tal o cual estilo narrativo? ¿De qué manera la redacción refuerza la historia de sus visualizaciones?
 
